@@ -4,4 +4,4 @@ This project focused on analyzing local and global temperature data and comparin
 - Steps and data extraction
 - Key considerations
 - Line chart
-- Observations:
+- Observations
